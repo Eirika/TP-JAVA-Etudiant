@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<formation>
+		<etudiant>
+			<etud:id></etud:id>
+			<etud:nom></etud:nom>
+			<etud:prenom></etud:prenom>
+			<etud:groupe></etud:groupe>
+		</etudiant>
+		<etudiant>
+			<etud:id></etud:id>
+			<etud:nom></etud:nom>
+			<etud:prenom></etud:prenom>
+			<etud:groupe></etud:groupe>
+		</etudiant>
+		<etudiant>
+			<etud:id></etud:id>
+			<etud:nom></etud:nom>
+			<etud:prenom></etud:prenom>
+			<etud:groupe></etud:groupe>
+		</etudiant>
+		<etudiant>
+			<etud:id></etud:id>
+			<etud:nom></etud:nom>
+			<etud:prenom></etud:prenom>
+			<etud:groupe></etud:groupe>
+		</etudiant>
+</formation>

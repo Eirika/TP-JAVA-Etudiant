@@ -1,0 +1,3 @@
+<maliste collection="listeEtudiant">
+	<element label="Etudiant" champ="unEtudiant"></element><!-- correspond à label + champ-->
+</maliste>

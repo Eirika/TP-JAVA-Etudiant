@@ -1,0 +1,8 @@
+<header css="" meta=""></header>
+
+<titre nom="">
+</titre>
+
+<maliste collection="listeEtudiant">
+	<element label="Etudiant" champ="unEtudiant"></element><!-- correspond à label + champ-->
+</maliste>
