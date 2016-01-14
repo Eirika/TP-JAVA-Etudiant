@@ -5,10 +5,9 @@
  */
 package worker;
 
-/**
- *
- * @author Eirika
- */
 public class xmlParser {
-    
+	
+    public static void main(String args[]){
+    	
+    }
 }

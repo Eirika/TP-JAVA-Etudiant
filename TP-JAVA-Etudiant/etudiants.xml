@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<formation>
+<formation groupe="groupe1">
 		<etudiant>
-			<etud:id></etud:id>
-			<etud:nom></etud:nom>
-			<etud:prenom></etud:prenom>
-			<etud:groupe></etud:groupe>
+			<etud:id>id1</etud:id>
+			<etud:nom>nom1</etud:nom>
+			<etud:prenom>prenom1</etud:prenom>
+			<etud:groupe>groupe1</etud:groupe>
 		</etudiant>
 		<etudiant>
-			<etud:id></etud:id>
-			<etud:nom></etud:nom>
-			<etud:prenom></etud:prenom>
-			<etud:groupe></etud:groupe>
+			<etud:id>id2</etud:id>
+			<etud:nom>nom2</etud:nom>
+			<etud:prenom>prenom2</etud:prenom>
+			<etud:groupe>groupe1</etud:groupe>
 		</etudiant>
 		<etudiant>
-			<etud:id></etud:id>
-			<etud:nom></etud:nom>
-			<etud:prenom></etud:prenom>
-			<etud:groupe></etud:groupe>
+			<etud:id>id3</etud:id>
+			<etud:nom>nom3</etud:nom>
+			<etud:prenom>prenom3</etud:prenom>
+			<etud:groupe>groupe1</etud:groupe>
 		</etudiant>
 		<etudiant>
-			<etud:id></etud:id>
-			<etud:nom></etud:nom>
-			<etud:prenom></etud:prenom>
-			<etud:groupe></etud:groupe>
+			<etud:id>id3</etud:id>
+			<etud:nom>nom3</etud:nom>
+			<etud:prenom>prenom3</etud:prenom>
+			<etud:groupe>groupe1</etud:groupe>
 		</etudiant>
 </formation>
