@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Page>
+<Page creator="tristan-quentin">
 <TitrePage value="CASIR"/>
 <Table>
 <LesEtudiants>
-<Etudiant Groupe="CASIR2" Nom="Bourgeat" Prenom="Alex" id="5"/>
+<Etudiant Groupe="CASIR2" Nom="Bourg" Prenom="Alex" id="5"/>
 <Etudiant Groupe="CASIR1" Nom="Chanove" Prenom="Tristan" id="6"/>
+<Etudiant Groupe="Casir2" Nom="Marc" Prenom="Jean" id="61033b24-505f-4339-a470-7302eedad852"/>
 </LesEtudiants>
 </Table>
 </Page>

@@ -1,8 +1,10 @@
 package parserEtud;
 
+import java.util.UUID;
+
 public class Etudiant {
 
-    private int id;
+    private String id;
     private String nom;
     private String prenom;
     private String groupe;
@@ -17,19 +19,27 @@ public class Etudiant {
      * @param prenom
      * @param groupe
      */
-    public Etudiant(int id, String nom, String prenom, String groupe) {
+    public Etudiant(String id, String nom, String prenom, String groupe) {
         super();
         this.id = id;
         this.nom = nom;
         this.prenom = prenom;
         this.groupe = groupe;
     }
+    
+    public Etudiant(String nom, String prenom, String groupe) {
+        super();
+        this.id = UUID.randomUUID().toString();
+        this.nom = nom;
+        this.prenom = prenom;
+        this.groupe = groupe;
+    }
 
-    public int getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(String id) {
         this.id = id;
     }
 
@@ -55,10 +65,6 @@ public class Etudiant {
 
     public void setGroupe(String groupe) {
         this.groupe = groupe;
-    }
-
-    public String getHtml() {
-        return "<tr><td>" + this.id + "</td><td>" + this.nom + "</td><td>" + this.prenom + "</td><td>" + this.groupe + "</td><td><a href=\"/detailEtudiant?id=" + this.id + "\"><button>D&eacute;tail</button></a><a href=\"/supprimer?id=" + this.id + "\"><button>Supprimer</button></a></td></tr>";
     }
 
 }
