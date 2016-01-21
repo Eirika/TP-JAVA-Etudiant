@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Page>
+<TitrePage value="CASIR"/>
+<Table>
+<LesEtudiants>
+<Etudiant Groupe="CASIR2" Nom="Bourgeat" Prenom="Alex" id="5"/>
+<Etudiant Groupe="CASIR1" Nom="Chanove" Prenom="Tristan" id="6"/>
+</LesEtudiants>
+</Table>
+</Page>
